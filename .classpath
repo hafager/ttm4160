@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="lib-log/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib-log/slf4j-log4j12-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib-log/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="no.ntnu.item.arctis.ARCTIS_RUNTIME_CONTAINER"/>
+	<classpathentry kind="con" path="no.ntnu.item.arctis.ARCTIS_DEPENDENCIES_CONTAINER"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="lib-gen/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="lib-gen/pi4j-service.jar"/>
+	<classpathentry kind="lib" path="lib-gen/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="lib-gen/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="lib-gen/bcpkix-jdk15on-153.jar"/>
+	<classpathentry kind="lib" path="lib-gen/en_us.jar"/>
+	<classpathentry kind="lib" path="lib-gen/freetts.jar"/>
+	<classpathentry kind="lib" path="lib-gen/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="lib-gen/cmulex.jar"/>
+	<classpathentry kind="lib" path="lib-gen/persistent-queue.jar"/>
+	<classpathentry kind="lib" path="lib-gen/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="lib-gen/bcprov-jdk15on-153.jar"/>
+	<classpathentry kind="lib" path="lib-gen/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib-gen/cmudict04.jar"/>
+	<classpathentry kind="lib" path="lib-gen/cmutimelex.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
